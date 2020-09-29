@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/voidful/DG-Showcase/static/css/main.736bfa08.chunk.css",
+    "main.js": "/voidful/DG-Showcase/static/js/main.4952149f.chunk.js",
+    "main.js.map": "/voidful/DG-Showcase/static/js/main.4952149f.chunk.js.map",
+    "runtime-main.js": "/voidful/DG-Showcase/static/js/runtime-main.4bf1f7fe.js",
+    "runtime-main.js.map": "/voidful/DG-Showcase/static/js/runtime-main.4bf1f7fe.js.map",
+    "static/js/2.d947e8c2.chunk.js": "/voidful/DG-Showcase/static/js/2.d947e8c2.chunk.js",
+    "static/js/2.d947e8c2.chunk.js.map": "/voidful/DG-Showcase/static/js/2.d947e8c2.chunk.js.map",
+    "index.html": "/voidful/DG-Showcase/index.html",
+    "precache-manifest.b65511e6a7063501b2399359b853935d.js": "/voidful/DG-Showcase/precache-manifest.b65511e6a7063501b2399359b853935d.js",
+    "service-worker.js": "/voidful/DG-Showcase/service-worker.js",
+    "static/css/main.736bfa08.chunk.css.map": "/voidful/DG-Showcase/static/css/main.736bfa08.chunk.css.map",
+    "static/js/2.d947e8c2.chunk.js.LICENSE.txt": "/voidful/DG-Showcase/static/js/2.d947e8c2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bf1f7fe.js",
+    "static/js/2.d947e8c2.chunk.js",
+    "static/css/main.736bfa08.chunk.css",
+    "static/js/main.4952149f.chunk.js"
+  ]
+}
