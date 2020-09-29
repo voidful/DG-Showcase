@@ -12,7 +12,7 @@
     "react-iframe": "^1.8.0",
     "react-scripts": "3.4.1"
   },
-  "homepage": "https://voidful.github.io/NLPrep-Datasets/",
+  "homepage": "https://github.com/voidful/DG-Showcase/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

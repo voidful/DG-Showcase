@@ -10,3 +10,13 @@ docs
 dist
 .DS_Store
 .idea
+.github/
+.gitignore
+LICENSE
+README.md
+package-lock.json
+package.json
+result/
+src/
+yarn.lock
+build
