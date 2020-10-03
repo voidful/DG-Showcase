@@ -7,7 +7,7 @@ class MAIN extends React.Component {
         super(props);
         const {selected_id} = this.props
         this.state = {
-            selected_id:selected_id,
+            selected_id: selected_id,
             isLoading: true
         }
     }
@@ -25,12 +25,17 @@ class MAIN extends React.Component {
     }
 
     componentDidMount() {
-        if (this.getQueryVariable('id') !== false)
-            this.setState({selected_id:this.getQueryVariable('id')})
         this.setState({isLoading: true});
-        fetch(process.env.PUBLIC_URL + '/distractors/' + this.state.selected_id + '.json')
-            .then(response => response.json())
-            .then(data => this.setState({data: data, isLoading: false}))
+        let selected = this.state.selected_id
+
+        if (this.getQueryVariable('id') !== false) {
+            selected = this.getQueryVariable('id')
+            this.setState({selected_id: selected})
+        }
+
+        fetch(process.env.PUBLIC_URL + '/distractors/' + selected + '.json')
+                .then(response => response.json())
+                .then(data => this.setState({data: data, isLoading: false}))
     }
 
     render() {
