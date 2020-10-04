@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/DG-Showcase/static/css/main.736bfa08.chunk.css",
-    "main.js": "/DG-Showcase/static/js/main.841abc63.chunk.js",
-    "main.js.map": "/DG-Showcase/static/js/main.841abc63.chunk.js.map",
+    "main.js": "/DG-Showcase/static/js/main.c7bfb893.chunk.js",
+    "main.js.map": "/DG-Showcase/static/js/main.c7bfb893.chunk.js.map",
     "runtime-main.js": "/DG-Showcase/static/js/runtime-main.d84b6aa9.js",
     "runtime-main.js.map": "/DG-Showcase/static/js/runtime-main.d84b6aa9.js.map",
     "static/js/2.d947e8c2.chunk.js": "/DG-Showcase/static/js/2.d947e8c2.chunk.js",
     "static/js/2.d947e8c2.chunk.js.map": "/DG-Showcase/static/js/2.d947e8c2.chunk.js.map",
     "index.html": "/DG-Showcase/index.html",
-    "precache-manifest.97db62f8635253e48da63ac89048c079.js": "/DG-Showcase/precache-manifest.97db62f8635253e48da63ac89048c079.js",
+    "precache-manifest.d6bfcf7eb5f7fdb63fcb999b693b2551.js": "/DG-Showcase/precache-manifest.d6bfcf7eb5f7fdb63fcb999b693b2551.js",
     "service-worker.js": "/DG-Showcase/service-worker.js",
     "static/css/main.736bfa08.chunk.css.map": "/DG-Showcase/static/css/main.736bfa08.chunk.css.map",
     "static/js/2.d947e8c2.chunk.js.LICENSE.txt": "/DG-Showcase/static/js/2.d947e8c2.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d84b6aa9.js",
     "static/js/2.d947e8c2.chunk.js",
     "static/css/main.736bfa08.chunk.css",
-    "static/js/main.841abc63.chunk.js"
+    "static/js/main.c7bfb893.chunk.js"
   ]
 }
